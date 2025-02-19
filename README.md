@@ -1,4 +1,4 @@
-# code_dumper.sh
+# code_dumper.bash
 
 Exclude files and directories:
 ```bash
